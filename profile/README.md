@@ -31,9 +31,6 @@
 │     byte-identical rebuild, Unicorn emulator, │
 │     clean-room C99/SDL3 port                  │
 └───────────────────────────────────────────────┘
-
- archived ─ sekta · obsidian · spa666bot · evilspa666backend
- contact  ─ t.me/evilcat666bot
 ```
 
 [**evilcat666/m8**](https://github.com/evilcat666/m8)
